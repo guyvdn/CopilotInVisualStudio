@@ -1,6 +1,5 @@
 ---
 title: Getting started with GitHub Copilot in Visual Studio
-description: run with reveal-md slides.md --css dracula.css
 controls: true
 theme: dracula
 revealOptions:
